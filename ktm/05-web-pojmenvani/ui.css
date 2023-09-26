@@ -1,0 +1,73 @@
+
+
+
+ 
+
+.navbar {
+
+    padding: 10px;
+    
+    display: flex;
+    
+    }
+    
+     
+    
+     
+    
+     
+    
+    .navbar a {
+    
+    text-decoration: none;
+    
+    color: black;
+    
+    font-size: x-large;
+    
+    margin-left: 15px;
+    
+    }
+    
+     
+    
+    .navbar a:hover{
+    
+        color: red;
+    
+    }
+    
+     
+    
+    .navlinks {
+    
+    margin-top: 5px;
+    
+    }
+    
+     
+    
+    .body{
+    
+        margin: 0;
+    
+    }
+
+    .menu{
+      display: flex;
+      justify-content: space-evenly;
+      margin-top: 20px;
+      flex-direction: row;
+
+    }
+
+    h4 {
+        text-align: center;
+    }
+  
+.videos {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
