@@ -1,0 +1,26 @@
+.Navbar{
+    background-color: goldenrod;
+    justify-content: space-evenly;
+    display: flex;
+padding: 15px;
+}
+
+
+
+.Navbar a:hover{
+    color: aqua;
+}
+
+.Navbar a{
+    color: rgb(21, 21, 21);
+    text-decoration: none;
+font-size: x-large ;
+}
+ 
+.mainPageContainer{
+ display: flex;
+ color: black;
+ justify-content: space-around;
+}
+
+
